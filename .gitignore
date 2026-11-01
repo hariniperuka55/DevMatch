@@ -1,0 +1,19 @@
+# React dependencies
+devmatch-frontend/node_modules/
+
+# React build
+devmatch-frontend/dist/
+
+# Java compiled files
+devmatch-backend/out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Extra copies
+devmatch-mvp.zip
+devmatch-mvp/

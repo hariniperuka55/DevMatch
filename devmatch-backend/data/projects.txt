@@ -1,0 +1,2 @@
+101,AI Waste Detection,Detect waste using Artificial Intelligence,1,10,ML Engineer,Java|Python|Machine Learning|React,Artificial Intelligence|Environment
+102,Smart Campus,Build a smart campus management system,2,20,Backend Developer,Java|MySQL|React,Technology
